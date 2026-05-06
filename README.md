@@ -1,4 +1,4 @@
-QR Menu & Management System (Next.js 15)
+### QR Menu & Management System (Next.js 15)
 
 Proje Hakkında
 Modern restoran ve kafe ihtiyaçları için geliştirilmiş, Next.js 15 ve SQLite tabanlı bir dijital menü yönetim sistemidir. Hem müşteri tarafı için iştah açıcı bir arayüz hem de işletme sahibi için kapsamlı bir yönetim paneli sunar.
